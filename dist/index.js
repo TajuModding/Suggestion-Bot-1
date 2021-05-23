@@ -1,4 +1,6 @@
 "use strict";
+//By Rainbow Studios
+//Copyright use the code without credit and get sued
 Object.defineProperty(exports, "__esModule", { value: true });
 const discord_js_1 = require("discord.js");
 const client = new discord_js_1.Client();
@@ -40,3 +42,5 @@ client.on("message", (message) => {
     }
 });
 client.login(process.env.BOT_TOKEN);
+//By Rainbow Studios
+//Copyright use the code without credit and get sued
