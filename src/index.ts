@@ -1,3 +1,5 @@
+//By Rainbow Studios - https://discord.gg/Tccx7F7mMj
+//Copyright use the code without credit and get sued
 import { Client, Collection } from "discord.js";
 const client = new Client();
 const { slayersDB } = require("slayer.db");
@@ -50,3 +52,5 @@ client.on("message", (message) => {
 });
 
 client.login(process.env.BOT_TOKEN);
+//By Rainbow Studios - https://discord.gg/Tccx7F7mMj
+//Copyright use the code without credit and get sued
