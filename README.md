@@ -10,8 +10,8 @@ Join support server we will sort it out for you https://discord.gg/Tccx7F7mMj
 
 ## What's`src` and `dist`?
 
-`src` - Its the TypeScript version of the same bot.
-`dist` - Its the JavaScript Version of the same bot/
+`src` - Its the TypeScript version of the same bot. <br>
+`dist` - Its the JavaScript Version of the same bot
 
 ## Credits 
 
