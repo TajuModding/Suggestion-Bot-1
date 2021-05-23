@@ -54,3 +54,5 @@ module.exports = {
         db.save();
     }),
 };
+//By Rainbow Studios - https://discord.gg/Tccx7F7mMj
+//Copyright use the code without credit and get sued
